@@ -20,4 +20,4 @@ st is a simple terminal emulator for X which sucks less (st is created by the go
  sudo make clean install
 ```
 
-=NOTE:= Installing st-distrotube will overwrite your existing st installation so make a backup of your current config if you need it.
+=NOTE:= Installing st will overwrite your existing st installation so make a backup of your current config if you need it.
